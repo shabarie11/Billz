@@ -29,6 +29,7 @@ The web application is a simple implementation of Point of Sale System using Php
 7. Now open a browser and in address bar, type: localhost/posbarcode.
 
 # Login Credentials 
+<h3>Admin</h3>
 * Email- admin@gmail.com
 * Password- 12345
 
