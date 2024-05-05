@@ -30,6 +30,7 @@ The web application is a simple implementation of Point of Sale System using Php
 
 # Login Credentials 
 <h3>Admin</h3>
+
 * Email- admin@gmail.com
 * Password- 12345
 
