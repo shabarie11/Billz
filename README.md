@@ -28,6 +28,10 @@ The web application is a simple implementation of Point of Sale System using Php
 6. Click on "Import" tab. From the browse option click on choose file and select file from location C:\xampp\htdocs\posbarcode. Finally, Scroll down and click on go.
 7. Now open a browser and in address bar, type: localhost/posbarcode.
 
+# Login Credentials 
+* Email- admin@gmail.com
+* Password- 12345
+
 # Technology
 * Frontend Language:Bootstrap, Css, Html
 * Backend Language:Php, MySql
