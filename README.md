@@ -34,6 +34,11 @@ The web application is a simple implementation of Point of Sale System using Php
 * Email- admin@gmail.com
 * Password- 12345
 
+<h3>Vendor</h3>
+
+* Email- vendor@gmail.com
+* Password- 12345
+
 # Technology
 * Frontend Language:Bootstrap, Css, Html
 * Backend Language:Php, MySql
